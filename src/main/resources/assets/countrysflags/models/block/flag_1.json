@@ -1,0 +1,10 @@
+{
+  "parent": "countrysflags:custom/flagh_avstrii",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_avstrii",
+    "particle": "countrysflags:blocks/flagh_avstrii",
+    "0": "countrysflags:blocks/flagh_avstrii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

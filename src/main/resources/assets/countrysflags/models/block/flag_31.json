@@ -1,0 +1,10 @@
+{
+  "parent": "countrysflags:custom/flag_estonia",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "countrysflags:blocks/estonia",
+    "particle": "countrysflags:blocks/estonia",
+    "0": "countrysflags:blocks/estonia",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

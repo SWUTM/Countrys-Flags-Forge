@@ -1,0 +1,10 @@
+{
+  "parent": "countrysflags:custom/flag_polish",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_polshi",
+    "particle": "countrysflags:blocks/flagh_polshi",
+    "0": "countrysflags:blocks/flagh_polshi",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

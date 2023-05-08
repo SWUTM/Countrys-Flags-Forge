@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "countrysflags:block/flag"
+    },
+    "facing=east": {
+      "model": "countrysflags:block/flag",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "countrysflags:block/flag",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "countrysflags:block/flag",
+      "y": 270
+    }
+  }
+}

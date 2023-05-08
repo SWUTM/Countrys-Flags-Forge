@@ -1,0 +1,10 @@
+{
+  "parent": "countrysflags:custom/flagh_shvietsii",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_shvietsii",
+    "particle": "countrysflags:blocks/flagh_shvietsii",
+    "0": "countrysflags:blocks/flagh_shvietsii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

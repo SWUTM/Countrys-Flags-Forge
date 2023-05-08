@@ -1,0 +1,10 @@
+{
+  "parent": "countrysflags:custom/flagh_upa",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_upa",
+    "particle": "countrysflags:blocks/flagh_upa",
+    "0": "countrysflags:blocks/flagh_upa",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

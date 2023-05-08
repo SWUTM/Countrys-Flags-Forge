@@ -1,0 +1,10 @@
+{
+  "parent": "countrysflags:custom/flagh_danii",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_danii",
+    "particle": "countrysflags:blocks/flagh_danii",
+    "0": "countrysflags:blocks/flagh_danii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

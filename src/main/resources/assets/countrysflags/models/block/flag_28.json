@@ -1,0 +1,10 @@
+{
+  "parent": "countrysflags:custom/flagh_vielikobritanii",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_vielikobritanii",
+    "particle": "countrysflags:blocks/flagh_vielikobritanii",
+    "0": "countrysflags:blocks/flagh_vielikobritanii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

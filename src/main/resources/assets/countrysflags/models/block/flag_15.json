@@ -1,0 +1,10 @@
+{
+  "parent": "countrysflags:custom/flagh_kitaia",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_kitaia",
+    "particle": "countrysflags:blocks/flagh_kitaia",
+    "0": "countrysflags:blocks/flagh_kitaia",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}
